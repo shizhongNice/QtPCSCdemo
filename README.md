@@ -1,0 +1,2 @@
+# QtPCSCdemo
+pcsc GUI demo
